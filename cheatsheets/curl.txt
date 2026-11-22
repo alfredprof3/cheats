@@ -1,0 +1,3 @@
+# How to use cURL Linux command
+
+To start using the cURL command in the terminal we need to install it first by...

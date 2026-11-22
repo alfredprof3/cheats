@@ -1,0 +1,3 @@
+# How to use TAR Linux command
+
+To use the `tar` we need first to install it using...
